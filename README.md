@@ -13,6 +13,11 @@ Email Me 👉 ✉️ **aniketbaghel2004@gmail.com** for collaboration, projects 
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I’m fascinated by AI agents that can use tools, solve problems and recover from failures!
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ani-ket-kum-ar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniketbaghel2004@gmail.com) 
