@@ -1,5 +1,17 @@
-# 💫 About Me:
-🔭 Building AI agents, LLM applications and security automation tools<br><br>👯 Open to Agentic AI, Generative AI, cybersecurity and open source collaborations<br><br>🤝 Eager to learn, build and solve real world engineering challenges<br><br>🌱 Exploring LangGraph, RAG, MCP, multi-agent systems and AI security<br><br>💬 Ask me about Python, LLMs, AI agents, Linux, Bash, VAPT and network security<br><br>⚡ Fascinated by self healing agents and intelligent security automation
+# 💫 Hi 👋, I'm Aniket Kumar
+
+**An aspiring AI Engineer || Agentic AI Developer || Cybersecurity Enthusiast**
+
+Email Me 👉 ✉️ **aniketbaghel2004@gmail.com** for collaboration, projects or anything tech related.
+
+- 🔭 **I’m currently working on:** AI agents, LLM powered applications and intelligent security automation
+- 🌱 **I’m currently learning:** Multi agent systems, LangGraph, RAG, MCP and AI security
+- 👯 **I’m looking to collaborate on:** Agentic AI, Generative AI, cybersecurity and open source projects
+- 🤝 **I’m looking for help with:** Building reliable AI agents and scalable intelligent systems
+- 💬 **Ask me about:** Python, LLM integration, AI agents, prompt engineering, Linux, Bash and cybersecurity
+- 📫 **How to reach me:** aniketbaghel2004@gmail.com
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I’m fascinated by AI agents that can use tools, solve problems and recover from failures!
 
 
 ## 🌐 Socials:
