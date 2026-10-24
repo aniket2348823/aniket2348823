@@ -17,7 +17,7 @@ Email Me 👉 ✉️ **aniketbaghel2004@gmail.com** for collaboration, projects 
 ![](https://github-profile-trophy.vercel.app/?username=aniket2348823&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ani-ket-kum-ar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniketbaghel2004@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ani-ket-kum-ar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniketbaghel2004@gmail.com) [![TryHackMe](https://img.shields.io/badge/TryHackMe-C11111?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/aniketbaghel2004)
 
 <!-- Snake Game Repo View -->
 
@@ -34,5 +34,5 @@ Email Me 👉 ✉️ **aniketbaghel2004@gmail.com** for collaboration, projects 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aniket2348823&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
+[![VigilAgent](https://github-readme-stats.shion.dev/api/pin/?username=aniket2348823&repo=vigilagent&theme=dark)](https://github.com/aniket2348823/vigilagent)
+[![Pre-Code](https://github-readme-stats.shion.dev/api/pin/?username=aniket2348823&repo=Pre-Code&theme=dark)](https://github.com/aniket2348823/Pre-Code)
