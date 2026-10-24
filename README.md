@@ -13,9 +13,6 @@ Email Me 👉 ✉️ **aniketbaghel2004@gmail.com** for collaboration, projects 
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I’m fascinated by AI agents that can use tools, solve problems and recover from failures!
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aniket2348823&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ani-ket-kum-ar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniketbaghel2004@gmail.com) [![TryHackMe](https://img.shields.io/badge/TryHackMe-C11111?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/aniketbaghel2004)
 
